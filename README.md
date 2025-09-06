@@ -4,8 +4,7 @@ A **Full Stack Development trainee** with a strong passion for building dynamic 
 Currently enhancing my skills in backend technologies and working on personal projects to gain hands-on experience.
 
 - I'm currently learning **Django**, **React**
-
----
+  
 ### Tech Stack
 
 #### Languages & Markup
@@ -19,7 +18,6 @@ Currently enhancing my skills in backend technologies and working on personal pr
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40" alt="Bootstrap"/>
 
----
 
 | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
