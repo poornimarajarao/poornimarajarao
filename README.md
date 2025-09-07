@@ -1,6 +1,6 @@
 ## Hello, I’m Poornima Rajarao
 
-A **Full Stack Development trainee** with a strong passion for building dynamic and responsive web applications.  
+A **Full Stack Development Trainee** with a strong passion for building dynamic and responsive web applications.  
 Currently enhancing my skills in backend technologies and working on personal projects to gain hands-on experience.
 
 - I'm currently learning **Django**, **React**
