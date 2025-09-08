@@ -1,23 +1,36 @@
-## Hello, I’m Poornima Rajarao
+## <p align="center">Hi, I’m Poornima Rajarao</p>  
+### <p align="center"> [ Full Stack Developer | Web Developer | Python Developer ] </p>  
 
-A **Full Stack Development Trainee** with a strong passion for building dynamic and responsive web applications.  
-Currently enhancing my skills in backend technologies and working on personal projects to gain hands-on experience.
+<p align="">
+  A <strong>Full Stack Development Trainee</strong> passionate about building dynamic and responsive web applications. Currently sharpening backend skills through personal projects.
+</p>
 
-- I'm currently learning **Django**, **React**
+<img align="right" alt="Coding" width="475" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
+<div style="text-align: center;">
+  <h2>Tech Stack</h2>
+  <h3>Front End</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   
-### Tech Stack
+  <h3>Back End</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
-#### Languages & Markup
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> &nbsp;
-<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.jpg" width="40" alt="SQL"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <h3>Database</h3>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-#### Frameworks & Libraries
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="40" alt="Bootstrap"/>
+<h3>Tools</h3>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+</div>
 
+## My Stats
 
 | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -25,3 +38,4 @@ Currently enhancing my skills in backend technologies and working on personal pr
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poornimarajarao&theme=default)](https://github.com/poornimarajarao)
 
+![Profile Views](https://komarev.com/ghpvc/?username=poornimarajarao&label=Profile%20views&color=0e75b6&style=for-the-badge)
