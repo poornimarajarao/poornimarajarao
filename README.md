@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
+
   <h3>Database</h3>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
 
 <h3>Tools</h3>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
@@ -38,4 +38,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poornimarajarao&theme=default)](https://github.com/poornimarajarao)
 
-![Profile Views](https://komarev.com/ghpvc/?username=poornimarajarao&label=Profile%20views&color=0e75b6&style=for-the-badge)
