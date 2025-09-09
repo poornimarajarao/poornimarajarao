@@ -2,13 +2,15 @@
 ### <p align="center"> [ Full Stack Developer | Web Developer | Python Developer ] </p>  
 
 <p align="">
-  A <strong>Full Stack Development Trainee</strong> passionate about building dynamic and responsive web applications. Currently sharpening backend skills through personal projects.
+  A <strong>Dedicated Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. Currently focused on enhancing backend capabilities through real-world projects. Driven by curiosity and a strong commitment to continuous learning, with the goal of mastering modern frameworks and tools to build efficient and reliable software solutions.
 </p>
 
-<img align="right" alt="Coding" width="475" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
 
 <div style="text-align: center;">
   <h2>Tech Stack</h2>
+  <img align="right" alt="Coding" width="475" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
   <h3>Front End</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
@@ -22,13 +24,14 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 
 
-  <h3>Database</h3>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-<h3>Tools</h3>
+
+
+<h3>Database & Tools </h3>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-</div>
+
 
 ## My Stats
 
