@@ -2,7 +2,7 @@
 ### <p align="center"> [ Full Stack Developer | Web Developer | Python Developer ] </p>  
 
 <p align="">
-  A <strong>Dedicated Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. Currently focused on enhancing backend capabilities through real-world projects. Driven by curiosity and a strong commitment to continuous learning, with the goal of mastering modern frameworks and tools to build efficient and reliable software solutions.
+  A <strong>Dedicated Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. Currently focused on enhancing backend capabilities through real-world projects.
 </p>
 
 
