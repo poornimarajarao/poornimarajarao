@@ -5,9 +5,8 @@
   A <strong>Dedicated Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. Currently focused on enhancing backend capabilities through real-world projects.
 </p>
 
-
-
 <div style="text-align: center;">
+  
   <h2>Tech Stack</h2>
   <img align="right" alt="Coding" width="475" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
@@ -35,9 +34,9 @@
 
 ## My Stats
 
-| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5" /></a> |
 | ------------- | ------------- |
 
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poornimarajarao&theme=default)](https://github.com/poornimarajarao)
 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poornimarajarao&theme=default)](https://github.com/poornimarajarao)
