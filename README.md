@@ -34,7 +34,7 @@
 
 ## My Stats
 
-| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5" /></a> |
+| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true&access_token=YOUR_GITHUB_PAT" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5&access_token=YOUR_GITHUB_PAT" /></a> |
 | ------------- | ------------- |
 
 
