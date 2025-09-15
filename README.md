@@ -9,7 +9,7 @@
   
   <h2>Tech Stack</h2>
   <img align="right" alt="Coding" width="475" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
+  
   <h3>Front End</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
