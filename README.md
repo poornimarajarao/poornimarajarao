@@ -1,8 +1,7 @@
 ## <p align="center">Hi, I’m Poornima Rajarao</p>  
-### <p align="center"> [ Full Stack Developer | Web Developer | Python Developer ] </p>  
 
 <p align="">
-  A <strong>Dedicated Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. Currently focused on enhancing backend capabilities through real-world projects.
+  A <strong> Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. 
 </p>
 
 <div style="text-align: center;">
@@ -31,11 +30,11 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
 
-
 ## My Stats
 
-| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true&access_token=YOUR_GITHUB_PAT" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5&access_token=YOUR_GITHUB_PAT" /></a> |
+| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5" /></a> |
 | ------------- | ------------- |
+
 
 
 
