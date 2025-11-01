@@ -1,7 +1,7 @@
 ## <p align="center">Hi, I’m Poornima Rajarao</p>  
 
 <p align="">
-  A <strong> Full Stack Development Trainee</strong> passionate about designing and building dynamic and responsive web applications. 
+  A <strong> Full Stack Developer Trainee</strong> passionate about designing and building dynamic and responsive web applications.
 </p>
 
 <div style="text-align: center;">
