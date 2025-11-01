@@ -32,10 +32,18 @@
 
 ## My Stats
 
-| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5" /></a> |
+| <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poornimarajarao&show_icons=true&include_all_commits=true&theme=default&hide_border=true" /></a> | <a href="https://github.com/poornimarajarao/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornimarajarao&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=0" /></a> |
 | ------------- | ------------- |
 
 
 
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poornimarajarao&theme=default)](https://github.com/poornimarajarao)
+
+
+
+
+
+
+
+
